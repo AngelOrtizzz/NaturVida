@@ -1,0 +1,153 @@
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Form1.resources
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.login.resources
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.registro.resources
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.facturas.resources
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.home.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.facturas.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Form1.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.home.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.login.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.registro.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.ResolveComReference.cache
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\itextsharp.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidades.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidades.pdb
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+d:\usuario\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.ResolveComReference.cache
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.facturas.resources
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.home.resources
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.login.resources
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.productos.resources
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.clientes.resources
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.vendedores.resources
+d:\usuario\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.inventario.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.clientes.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.facturas.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.home.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.inventario.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.login.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.productos.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.vendedores.resources
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll

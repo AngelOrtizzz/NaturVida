@@ -1,0 +1,60 @@
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.deps.json
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\refint\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaDatos\obj\Debug\net6.0-windows\ref\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.deps.json
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\refint\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaDatos\obj\Debug\net6.0-windows\ref\CapaDatos.dll
+d:\usuario\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.deps.json
+d:\usuario\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.dll
+d:\usuario\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.pdb
+d:\usuario\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaEntidades.dll
+d:\usuario\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaEntidades.pdb
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.AssemblyReference.cache
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.AssemblyInfoInputs.cache
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.AssemblyInfo.cs
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.CopyComplete
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.dll
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\refint\CapaDatos.dll
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.pdb
+d:\usuario\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\ref\CapaDatos.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.deps.json
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\refint\CapaDatos.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaDatos\obj\Debug\net6.0-windows\ref\CapaDatos.dll

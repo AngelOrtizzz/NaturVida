@@ -1,0 +1,48 @@
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.deps.json
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.AssemblyInfo.cs
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\refint\CapaEntidades.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\ref\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.deps.json
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.AssemblyInfo.cs
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\refint\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\ref\CapaEntidades.dll
+d:\usuario\Downloads\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.deps.json
+d:\usuario\Downloads\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.dll
+d:\usuario\Downloads\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.pdb
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.csproj.AssemblyReference.cache
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.AssemblyInfoInputs.cache
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.AssemblyInfo.cs
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.csproj.CoreCompileInputs.cache
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.dll
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\refint\CapaEntidades.dll
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.pdb
+d:\usuario\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\ref\CapaEntidades.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.deps.json
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\refint\CapaEntidades.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaEntidades\obj\Debug\net6.0-windows\ref\CapaEntidades.dll

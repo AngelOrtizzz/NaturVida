@@ -1,0 +1,68 @@
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.deps.json
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfo.cs
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CopyComplete
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\refint\CapaNegocio.dll
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena CSET\Downloads\Nueva carpeta\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\ref\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.deps.json
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfo.cs
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\refint\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\ref\CapaNegocio.dll
+d:\usuario\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.deps.json
+d:\usuario\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.dll
+d:\usuario\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.pdb
+d:\usuario\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.dll
+d:\usuario\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidades.dll
+d:\usuario\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.pdb
+d:\usuario\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidades.pdb
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.AssemblyReference.cache
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfoInputs.cache
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfo.cs
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CoreCompileInputs.cache
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CopyComplete
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.dll
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\refint\CapaNegocio.dll
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.pdb
+d:\usuario\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\ref\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.deps.json
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\refint\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\NaturVida\CapaNegocio\obj\Debug\net6.0-windows\ref\CapaNegocio.dll
